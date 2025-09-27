@@ -52,16 +52,12 @@ Android Studio
 Firebase Account
 Android Device or Emulator
 📥 Installation Steps
-Clone the repository:
-git clone https://github.com/your-username/my-recipe-book.git
-Open the project in Android Studio.
+
 Connect the app to Firebase by adding your Firebase configuration file to the project.
 Build and run the app on an Android device or emulator.
 Thank you for checking out My Recipe Book! We hope you find it useful and enjoy using it as much as we enjoyed developing it. Happy cooking! 🍳👩‍🍳👨‍🍳
 
 👉 Feed example:
  bandicam.2023-04-01.15-46-49-049.mp4 
-Our screens:
 
-1 2 3 4
 
